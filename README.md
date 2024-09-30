@@ -13,7 +13,7 @@ my-website/
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to MySeeds website</h1>
     </header>
     
     <main>
