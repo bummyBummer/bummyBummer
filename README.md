@@ -1,4 +1,4 @@
-my-website/
+MySeeds-website/
 ├── index.html
 ├── style.css
 └── script.js  
