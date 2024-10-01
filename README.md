@@ -17,7 +17,7 @@ MySeeds-website/
     </header>
     
     <main>
-        <p>This is a simple website created for demonstration purposes.</p>
+        <p>This is a simple website created for maggeed purposes.</p>
         <button id="alert-button">Click me!</button>
     </main>
     
