@@ -18,7 +18,7 @@ MySeeds-website/
     
     <main>
         <p>This is a simple website created for maggeed purposes.</p>
-        <button id="alert-button">Click me!</button>
+        <button id="alert-button">Click The Link Below!</button>
     </main>
     
     <footer>
